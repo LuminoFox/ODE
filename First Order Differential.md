@@ -15,5 +15,9 @@ Don't forgot the constant after the integration.
 
 Eg 1.1 Solve the following differntial equation and the interval of validity
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\frac{dy}{dx} = 6x^2$     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       $y(1)=\frac{1}{25}$
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\frac{dy}{dx} = 6y^2x$     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       $y(1)=\frac{1}{25}$
+
+Solution:
+$y^-2 dy = 6x dx$
+
 
