@@ -1,3 +1,4 @@
+\DeclareMathSizes{12}{30}{16}{12}
 ## First Order Differential
 
 Taking a first look at solving first order differential equations. 
