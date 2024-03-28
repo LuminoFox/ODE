@@ -7,4 +7,6 @@ Hence, we will first take a look at how to solve differentials of certain forms.
 
 # Seperable Equations
 These ODE are of the form **$N(y)dy = M(x)dx$**
-To
+
+To solve these differentials, we integrate both sides of the equation, like so, 
+$\int N(y)dy = \int M(x) dx$
