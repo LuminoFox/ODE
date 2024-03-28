@@ -15,5 +15,5 @@ Don't forgot the constant after the integration.
 
 Eg 1.1 Solve the following differntial equation and the interval of validity
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \large$\frac{dy}{dx} = 6x^2$\large     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       $y(1)=\frac{1}{25}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \large $\frac{dy}{dx} = 6x^2$ \large     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       $y(1)=\frac{1}{25}$
 
