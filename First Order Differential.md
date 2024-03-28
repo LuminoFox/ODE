@@ -19,7 +19,7 @@ Eg 1.1 Solve the following differntial equation and the interval of validity
 
 Solution:
 
-$y^(-2) dy = 6x dx$
+$\frac{1}{y^2} dy = 6x dx$
 $\int \frac{1}{y^2} dy = \int 6x dx$
 
 
